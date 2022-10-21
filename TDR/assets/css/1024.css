@@ -1,0 +1,91 @@
+@media only screen and (max-width: 1024px){
+  a{
+  padding-left: 45px;
+  padding-right: 45px;
+  }
+  #as{
+    margin-left: 3%;
+  }
+  #search{
+    margin-left: 3%;
+  }
+  #search:hover #search-text{
+  width: 86%;
+  transition: 450ms;
+}
+  #dropdown-content a{
+    font-size: 16px;
+  }
+  #games{
+  width: 967px;
+  height: 1211px;
+  margin-top: 10x;
+  margin-left: 2%;
+  margin-right: 2%;
+  color: white;
+  display: inline-block;
+  font-family: titillium web,sans-serif;
+  background: transparent;
+  font-weight: bold;
+
+}
+#f{
+  padding-top: 15px;
+}
+#one{
+  text-align: center;
+  display: inline-block;
+  height: 400px;
+  width: 234px;
+  background: black;
+  border: rgb(149 149 149) solid 2px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+#two{
+  text-align: center;
+  display: inline-block;
+  height: 400px;
+  width: 234px;
+  background: black;
+  border: rgb(149 149 149) solid 2px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+#three{
+  text-align: center;
+  display: inline-block;
+  height: 400px;
+  width: 234px;
+  background: black;
+  border: rgb(149 149 149) solid 2px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+#four{
+  text-align: center;
+  display: inline-block;
+  height: 400px;
+  width: 234px;
+  background: black;
+  border: rgb(149 149 149) solid 2px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+#layer{
+  text-align: center;
+  display: inline-block;
+  height: 400px;
+  width: 234px;
+  background: black;
+  border: rgb(149 149 149) solid 2px;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+  #h3{
+    margin-left: 2%;
+  }
+  #arrow{
+    color: black;
+  }
+}
